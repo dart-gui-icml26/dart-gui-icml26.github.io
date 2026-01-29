@@ -1,6 +1,6 @@
 # DART - Anonymous Review Website
 
-Anonymous submission website for ICLR review, featuring trajectory visualization, source code download, and model checkpoint access.
+Anonymous submission website for double blind review, featuring trajectory visualization, source code download, and model checkpoint access.
 
 ## Features
 
@@ -60,7 +60,7 @@ npm run preview
 ## Project Structure
 
 ```
-iclr-dart-page/
+dart-page/
 ├── src/
 │   ├── components/
 │   │   └── MarkedImage.vue         # Image with mouse action markers
@@ -117,5 +117,3 @@ npm run build
 
 MIT
 
-# dart-gui-iclr26
-# dart-gui-iclr26
